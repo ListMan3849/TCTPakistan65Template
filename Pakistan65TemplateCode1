@@ -8,4 +8,4 @@ campaignTrail_temp.global_parameter_json = JSON.parse("[{\"model\": \"campaign_t
 campaignTrail_temp.candidate_dropout_json = JSON.parse("[{\"model\": \"campaign_trail.candidate_dropout\", \"pk\": 1, \"fields\": {\"candidate\": 36, \"affected_candidate\": 18, \"probability\": 1.0}}]");
 campaignTrail_temp.temp_election_list = [{"id": 13, "year": 1844, "is_premium": 0, "display_year": "Pakistan 1965"}];
 
-campaignTrail_temp.credits = 'u/PakistanArmyBall'
+campaignTrail_temp.credits = 'PakistanArmyBall'
