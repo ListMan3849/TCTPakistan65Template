@@ -3310,4 +3310,4 @@ campaignTrail_temp.jet_data = [{
 campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/xc9xV0B.jpeg';
 campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/VoHxQxn.png';
 campaignTrail_temp.candidate_last_name = 'General Khan';
-campaignTrail_temp.running_mate_last_name = 'Convention Muslim League';
+campaignTrail_temp.running_mate_last_name = 'CML';
